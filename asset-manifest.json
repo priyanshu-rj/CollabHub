@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/collabhub/static/css/main.d41bc624.css",
+    "main.js": "/collabhub/static/js/main.5e6e631a.js",
+    "static/js/453.42a539d0.chunk.js": "/collabhub/static/js/453.42a539d0.chunk.js",
+    "static/media/videocall.jpg": "/collabhub/static/media/videocall.18ad9039dbbe65ecfe50.jpg",
+    "index.html": "/collabhub/index.html",
+    "main.d41bc624.css.map": "/collabhub/static/css/main.d41bc624.css.map",
+    "main.5e6e631a.js.map": "/collabhub/static/js/main.5e6e631a.js.map",
+    "453.42a539d0.chunk.js.map": "/collabhub/static/js/453.42a539d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41bc624.css",
+    "static/js/main.5e6e631a.js"
+  ]
+}
