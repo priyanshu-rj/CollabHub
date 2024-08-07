@@ -21,6 +21,7 @@ const Home = () => {
             />
             <button  className="button"onClick={handleJoinRoom}>Join</button>
             </div>
+    <p>develop by priyanshu</p>
         </div>
     );
 };
