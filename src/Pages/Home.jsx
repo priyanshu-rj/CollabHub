@@ -10,19 +10,21 @@ const Home = () => {
     }, [navigate, value]);
 
     return (
+   
         <div className="container">
           <h1> Video Call Room </h1>
              <div className='other' >
-            <input
+              <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
                 type="text"
                 placeholder="Enter room code"
             />
             <button  className="button"onClick={handleJoinRoom}>Join</button>
-            </div>
-    <p>develop by priyanshu</p>
+            </div> 
+            <p>develop by priyanshu</p>
         </div>
+       
     );
 };
 
